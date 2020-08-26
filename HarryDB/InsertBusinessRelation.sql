@@ -1,0 +1,1 @@
+﻿Insert into BusinessRelation values (1, 'John Doe', 'Fifth Avenue 23', '99999', 'New York', 'USA')
