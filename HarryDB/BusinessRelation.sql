@@ -1,6 +1,6 @@
 ﻿CREATE TABLE [dbo].[BusinessRelation]
 (
-	[BusinessRelation_SK] INT NOT NULL PRIMARY KEY, 
+	[BusinessRelation_SK] INT NOT NULL, 
     [Name] NVARCHAR(80) NULL, 
     [Address] NVARCHAR(256) NULL, 
     [ZipCode] NVARCHAR(10) NULL, 
