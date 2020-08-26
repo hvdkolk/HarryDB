@@ -63,4 +63,7 @@
   <ItemGroup>
     <Build Include="BusinessRelation.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="HarryDB.publish.xml" />
+  </ItemGroup>
 </Project>
